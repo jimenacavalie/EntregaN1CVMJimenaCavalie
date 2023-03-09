@@ -97,4 +97,9 @@ style
   left: 10%;
   margin-right: 60%;
 }
-
+.color-fondo{
+  background-color: #FEEE6E;
+}
+.navjustify-content-end{
+  background-color: aliceblue;
+}
